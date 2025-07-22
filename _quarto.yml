@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Mirzokhid"
+  navbar:
+    left:
+     - href: index.qmd
+       text: Home
+     - href: about.qmd
+       text: About
+     - href: education.qmd
+       text: Education
+     - href: experience.qmd
+       text: Experience
+     - href: skills.qmd
+       text: Skills
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+

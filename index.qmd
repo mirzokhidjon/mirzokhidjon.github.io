@@ -1,0 +1,9 @@
+---
+title: "Mirzokhid"
+echo: false
+
+---
+
+## Welcome to my portfolio!
+
+Where bold ideas meet real-world impact — explore my journey through innovation, strategy, and the future of global business.
