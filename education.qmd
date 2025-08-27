@@ -17,6 +17,6 @@ format: html
 ---
 
 ## Language 
-**[Korean]** – [Pusan National University], [2013-2014]  
+**[Korean]** – [Pusan National University],
 
 
