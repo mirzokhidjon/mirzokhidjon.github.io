@@ -3,20 +3,45 @@ title: "Education"
 format: html
 ---
 
-
 ## Bachelor of Business Administration (BSc)  
-**[Sejong University]** — [Seoul, Korea]  
-*Graduated: [2014-2018]* 
+**Sejong University** — Seoul, Korea  
+*Graduated: 2014 – 2018*  
+
+- Specialized in Finance, International Business, and Management.  
+- Relevant coursework: Corporate Finance, International Economics, Strategic Management, and Financial Analysis.  
+- Participated in student-led business clubs and case competitions, gaining practical experience in financial modeling and market research.  
+- Graduated with [insert GPA or honors if applicable], demonstrating strong academic performance and analytical skills.  
 
 ---
 
-## Bachelor of [Tourism Management]  
-**[Sejong University]** — [Seoul, Korea]  
-*Graduated: [2014-2018]*  
+## Bachelor of Tourism Management  
+**Sejong University** — Seoul, Korea  
+*Graduated: 2014 – 2018*  
+
+- Focused on Hospitality Management, Tourism Marketing, and Service Industry Operations.  
+- Relevant coursework: Tourism Policy, Event Management, International Tourism, and Sustainable Tourism Practices.  
+- Engaged in internships and projects with local and international tourism agencies, gaining hands-on experience in customer service, marketing, and tourism operations.  
+- Developed strong communication, organizational, and project management skills through collaborative assignments and fieldwork.  
 
 ---
 
-## Language 
-**[Korean]** – [Pusan National University],
+## Language Proficiency  
+**Korean** — Pusan National University  
+- Advanced proficiency in reading, writing, and speaking.  
+- Completed intensive language programs and professional communication courses to enhance cross-cultural business capabilities.  
+
+**English** — [Insert Institution or Level]  
+- Professional proficiency, used extensively in international finance and business communications.  
+
+**Additional Languages (Optional)**  
+- [Language]: [Proficiency level]  
+- [Language]: [Proficiency level]  
+
+---
+
+## Certifications & Training (Optional)  
+- [Certification Name], [Institution], [Year]  
+- [Certification Name], [Institution], [Year]  
+- [Short professional training, e.g., Financial Analysis, Risk Management, Leadership Workshops]  
 
 
